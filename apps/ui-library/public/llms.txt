@@ -1,5 +1,5 @@
 # Supabase UI Library
-Last updated: 2026-01-22T19:37:07.586Z
+Last updated: 2026-03-02T14:18:58.495Z
 
 ## Overview
 Library of components for your project. The components integrate with Supabase and are shadcn compatible.
